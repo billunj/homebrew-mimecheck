@@ -5,8 +5,8 @@
 class MimeCheck < Formula
   desc "UUID Validator"
   homepage "https://bitbucket.org/infomaker/"
-  url  "https://s3-eu-west-1.amazonaws.com/cca-dev-bill-temp/mime-check/mime-check-2020-12-15T193645-4834483.tar.gz"
-  sha256 "504213eb64e86493c9b14257d014d6a38a91b4de19762f40a37546757c91932b"
+  url  "https://s3-eu-west-1.amazonaws.com/cca-dev-bill-temp/mime-check/mime-check-2020-12-15T194213-.tar.gz"
+  sha256 "566ce7745cd31ca7f2577dc5ccc89fc61f3c95a60c74325760b75868a1b5644f"
 
   def install
     bin.install "mime-check"
